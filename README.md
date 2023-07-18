@@ -1,2 +1,2 @@
 # proj13
-# A calculator program
+# A Quiz Game
